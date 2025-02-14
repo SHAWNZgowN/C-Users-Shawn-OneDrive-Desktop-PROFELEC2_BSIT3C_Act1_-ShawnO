@@ -129,7 +129,7 @@ function renderCart() {
           <td>
             <div class="flex items-center gap-3">
               <div class="avatar">
-                <div class="mask mask-squircle h-12 w-12">
+                <div class="mask h-[80px] w-[95px]">
                   <img src="${item.image}" alt="${item.name}" class="h-full w-full object-cover" />
                 </div>
               </div>
